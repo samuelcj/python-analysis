@@ -11,7 +11,7 @@ This Python script analyzes a Configuration Management Database (CMDB) Excel fil
 - [Installation](#installation)
 - [Script Workflow](#Script-Workflow)
 - [Script Details](#Script-Details)
-- [How To Use The Script](#How-To-Use_The_Script)
+- [How To Use The Script](#How-To-Use-The-Script)
 - [Example Output](#Example-Output)
 
 ## Overview
